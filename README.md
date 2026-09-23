@@ -2,7 +2,7 @@
 
 Przykładowa aplikacja typu **Progressive Web App (PWA)** stworzona w ramach pracy inżynierskiej pt. *„Projekt i implementacja przykładowej aplikacji typu Progressive Web App (PWA)”*.
 
-> **Autor:** [Imię i Nazwisko]
+> **Autor:** Damian Kolasa
 > **Kierunek:** Informatyka
 > **Rok:** 2026
 
